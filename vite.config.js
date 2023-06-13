@@ -29,7 +29,7 @@ export default defineConfig({
       }
     }
   },
-  base: "/zjrzjrzjr/",
+  base: "/wxhwxhwxh/",
   build: {
     outDir: "docs"
   }
