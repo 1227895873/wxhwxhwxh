@@ -77,7 +77,7 @@ export default defineComponent({
               const userinfo = result.data.userinfo;
               that.setToken(userinfo.token);
               that.fillUserinfo(userinfo);
-              this.$router.push('/page')
+              this.$router.push('/dormitory_first')
             }else{
               return false;
             }
